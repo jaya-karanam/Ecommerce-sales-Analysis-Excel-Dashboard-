@@ -10,3 +10,4 @@
 ⚙️ Filter Options: Analyze the trends based on the year, region, and segment.<br /><br />
 
 This e-commerce sales dashboard empowers users to efficiently monitor key performance indicators, uncover trends, and make strategic business decisions backed by data-driven insights.
+<img width="350" alt="CGH" SRC = "Screenshot_Sales_DB" />
